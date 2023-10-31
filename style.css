@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,700;1,300&family=Noto+Sans+Kawi:wght@400;700&family=Noto+Sans:wght@900&family=Nunito:wght@600&family=Open+Sans:ital,wght@0,400;0,800;1,300&family=Playfair+Display:wght@500&family=Poppins:ital@0;1&family=Roboto&display=swap');body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans Kawi', sans-serif;
+}
+
+
+h1 {
+    color: #363636;
+    font-size: 24px;
+    margin: 6px 0 9px;
+    padding: 11px 0px 0px;
+    margin-left: 195px;
+}
+
+#product-name {
+    font-size: 15px;
+    color: #373737;
+    margin-left: 10px;
+    font-weight: 700;
+}
+
+.left-container {
+    margin-left: 195px;
+    border: 1px solid lightgray;
+    margin-right: 530px;
+    height: 283px;
+    width: 785px;
+}
+
+
+#product-image {
+    margin-left: 10px;
+}
+
+#product-image>img {
+    height: 240px;
+    width: 180px;
+}
+
+.box {
+    display: flex;
+    margin-top: -20px;
+}
+
+.flex {
+    display: flex;
+}
+
+#features {
+    line-height: 15px;
+    font-size: 12px;
+    color: #646464;
+    padding-left: 20px;
+}
+
+.btn {
+    height: 35px;
+    width: 270px;
+    border-radius: 11px;
+    font-size: 12px;
+    color: #343434;
+    background-color: transparent;
+    border: 1px solid #c3c3c3;
+    margin-left: 20px;
+}
+
+#firstcheckout {
+    color: white;
+    border: none;
+    font-size: 14px;
+    background-color: #ec1a30;
+    height: 35px;
+    width: 120px;
+    border-radius: 4px;
+    margin-top: 6px;
+    margin-left: 860px;
+}
+
+.checkbtn {
+    background-color: #ec1a30;
+    font-size: 14px;
+    color: white;
+    border-radius: 4px;
+    height: 35px;
+    width: 315px;
+    border: none;
+}
+
+.container {
+    display: flex;
+}
+
+#head-container {
+    display: flex;
+}
+
+.right-container {
+    margin-top: 74px;
+    margin-left: -500px;
+    margin-right: 195px;
+}
+
+h4 {
+    font-size: 15px;
+    color: #363636;
+    margin-top: 8px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.control-label {
+    font-size: 13px;
+    color: #363636;
+    margin-top: -10px;
+}
+
+.coupon {
+    margin-top: -10px;
+    font-size: 12px;
+    color: #555;
+    height: 33px;
+    width: 205px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding-left: 12px;
+    box-shadow: inset rgba(0,0,0,0.75);
+}
+
+.couponBox {
+    margin-top: -3px;
+}
+
+.apply {
+    margin-left: 45px;
+    color: #ec1a30;
+}
+
+#availableCode {
+    color: #ec1a30;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+#marginTop {
+    margin-top: 6px;
+}
+
+.voucherBox {
+    margin-top: 2px;
+}
+
+tr {
+    border-bottom: 2px solid rgb(5, 2, 2);
+}
+
+#order {
+    font-size: 15px;
+    color: #363636;
+}
+
+#earn {
+    font-size: 12px;
+    color: #646464;
+    margin-top: 6px;
+}
+
+#up {
+    margin-top: -14px;
+}
+#red {
+    color: #ec1a30;
+    text-decoration: none;
+}
